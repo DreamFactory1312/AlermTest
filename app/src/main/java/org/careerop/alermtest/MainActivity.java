@@ -33,6 +33,8 @@ public class MainActivity extends AppCompatActivity {
                 cal.set(Calendar.HOUR_OF_DAY, 15);
                 cal.set(Calendar.MINUTE, 23);
                 cal.set(Calendar.SECOND, 00);
+				
+				//Juyel Rana
 
 
                 Intent intent = new Intent(getApplicationContext(), Mote.class);
