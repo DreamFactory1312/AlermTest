@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
                 cal.set(Calendar.MINUTE, 23);
                 cal.set(Calendar.SECOND, 00);
 				
-				//Juyel Rana
+				//Juyel Rana is good boy
 
 
                 Intent intent = new Intent(getApplicationContext(), Mote.class);
